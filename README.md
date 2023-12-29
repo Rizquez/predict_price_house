@@ -17,9 +17,6 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor 
 ## Licencia
 Este proyecto está bajo una licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-## Creacion del entorno de virtual:
-python -m virtualenv nombreEntorno
-
 ## Dependencias
 pip freeze > requirements.txt  
 pip install -r requirements.txt
