@@ -2,12 +2,8 @@
 
 Este proyecto implementa un modelo de regresión lineal para predecir el precio de las casas basándose en su tamaño (metros cuadrados). Utilizamos un conjunto de datos generado aleatoriamente con la librería NumPy. El objetivo principal es comprender cómo se puede emplear la regresión lineal en la predicción de precios, teniendo en cuenta que los datos utilizados son simulados y no reflejan condiciones del mercado real.
 
-> [!IMPORTANT]
-Este proyecto es de carácter educativo y sirve para entender los conceptos básicos de la regresión lineal. Los modelos y los datos generados son hipotéticos y no deben utilizarse para aplicaciones reales sin una validación y ajuste adecuados.
-
 ## USO
 El script principal realiza las siguientes operaciones:
-
 1. Genera un conjunto de datos aleatorios para tamaños y precios de casas.
 2. Entrena un modelo de regresión lineal con estos datos.
 3. Realiza predicciones de precios basadas en el tamaño de la casa.
@@ -19,10 +15,12 @@ Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor 
 ## Licencia
 Este proyecto está bajo una licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-> [!NOTE]
-Creacion del entorno de virtual:
+## Creacion del entorno de virtual:
 python -m virtualenv nombreEntorno
 
-Dependencias
+## Dependencias
 pip freeze > requirements.txt  
 pip install -r requirements.txt
+
+> [!IMPORTANT]
+Este proyecto es de carácter educativo y sirve para entender los conceptos básicos de la regresión lineal. Los modelos y los datos generados son hipotéticos y no deben utilizarse para aplicaciones reales sin una validación y ajuste adecuados.
