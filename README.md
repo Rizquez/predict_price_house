@@ -11,12 +11,12 @@ El script principal realiza las siguientes operaciones:
 3. Realiza predicciones de precios basadas en el tamaño de la casa.
 4. Visualiza los datos y la línea de regresión.
 
+## Dependencias
+pip freeze > requirements.txt  
+pip install -r requirements.txt
+
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor haz un 'fork' del repositorio, crea una rama con tus mejoras y envía un 'pull request'.
 
 ## Licencia
 Este proyecto está bajo una licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-## Dependencias
-pip freeze > requirements.txt  
-pip install -r requirements.txt
