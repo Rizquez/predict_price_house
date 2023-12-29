@@ -2,7 +2,7 @@
 
 Este proyecto implementa un modelo de regresión lineal para predecir el precio de las casas basándose en su tamaño (metros cuadrados). Utilizamos un conjunto de datos generado aleatoriamente con la librería NumPy. El objetivo principal es comprender cómo se puede emplear la regresión lineal en la predicción de precios, teniendo en cuenta que los datos utilizados son simulados y no reflejan condiciones del mercado real.
 
-## USO
+## Funcionalidad
 El script principal realiza las siguientes operaciones:
 1. Genera un conjunto de datos aleatorios para tamaños y precios de casas.
 2. Entrena un modelo de regresión lineal con estos datos.
