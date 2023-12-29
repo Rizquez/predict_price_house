@@ -1,6 +1,9 @@
 # Regresion Lineal
 
-Proyecto para trabajar con la predicción del precio de casas en función de los metros cuadros utilizando un conjunto de datos aleatorios generadores mediante el uso de la libreria Numpy. Es importante tener en cuentra que este proyecto se realiza con la finalidad de entender el concepto de la regresion lineal, sobre la prediccion de eventos. Por lo que tanto los precios como el modelo entrenado en si, no tiene una aplicacion real. Deberan ser pulidos y trabajados a fondo si se desea implementar en un proyecto real.
+Este proyecto implementa un modelo de regresión lineal para predecir el precio de las casas basándose en su tamaño (metros cuadrados). Utilizamos un conjunto de datos generado aleatoriamente con la librería NumPy. El objetivo principal es comprender cómo se puede emplear la regresión lineal en la predicción de precios, teniendo en cuenta que los datos utilizados son simulados y no reflejan condiciones del mercado real.
+
+[!IMPORTANT]
+Este proyecto es de carácter educativo y sirve para entender los conceptos básicos de la regresión lineal. Los modelos y los datos generados son hipotéticos y no deben utilizarse para aplicaciones reales sin una validación y ajuste adecuados.
 
 ## Creacion del entorno de desarrollo:
 python -m virtualenv nombreEntorno
