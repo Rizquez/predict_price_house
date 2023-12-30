@@ -12,11 +12,11 @@ El script principal realiza las siguientes operaciones:
 4. Visualiza los datos y la línea de regresión.
 
 ## Dependencias
-Ejecutar para instalar las dependencias necesarias sobre este proyecto:
+Este comando instala las dependencias necesarias sobre este proyecto:
 ```
 pip install -r requirements.txt
 ```
-Ejecutar para crear o actualizar el archivo txt que almacena las dependencias del proyecto:
+Y este comando crea o actualiza el archivo txt que almacena las dependencias del proyecto:
 ```
 pip freeze > requirements.txt  
 ```
