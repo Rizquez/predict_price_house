@@ -12,8 +12,15 @@ El script principal realiza las siguientes operaciones:
 4. Visualiza los datos y la línea de regresión.
 
 ## Dependencias
+Por otro lado, con esta linea podras crear un archivo txt en caso de que contribuyas con el proyecto y hayas modificado las dependencias del mismo.
+```
 pip freeze > requirements.txt  
+```
+
+Con la segun linea podras instalar todas las dependencias necesarias para el correcto funcionamiento de este proyecto.
+```
 pip install -r requirements.txt
+```
 
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor haz un 'fork' del repositorio, crea una rama con tus mejoras y envía un 'pull request'.
