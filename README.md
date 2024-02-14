@@ -11,6 +11,13 @@ El script principal realiza las siguientes operaciones:
 3. Realiza predicciones de precios basadas en el tamaño de la casa.
 4. Visualiza los datos y la línea de regresión.
 
+## Estructura del proyecto
+```
+├── LICENSE
+├── README.md
+└── Regresion_Lineal.ipynb
+```
+
 ## Dependencias
 Este comando instala las dependencias necesarias sobre este proyecto:
 ```
