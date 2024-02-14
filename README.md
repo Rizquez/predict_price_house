@@ -18,16 +18,6 @@ El script principal realiza las siguientes operaciones:
 └── Regresion_Lineal.ipynb
 ```
 
-## Dependencias
-Este comando instala las dependencias necesarias sobre este proyecto:
-```
-pip install -r requirements.txt
-```
-Y este comando crea o actualiza el archivo txt que almacena las dependencias del proyecto:
-```
-pip freeze > requirements.txt  
-```
-
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor haz un 'fork' del repositorio, crea una rama con tus mejoras y envía un 'pull request'.
 
